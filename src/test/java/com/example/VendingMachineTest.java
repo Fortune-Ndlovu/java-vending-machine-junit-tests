@@ -12,6 +12,7 @@ import org.junit.Test;
 public class VendingMachineTest {
     private VendingMachine vendingMachine;
 
+    // 
     @Before
     public void setUp() {
         vendingMachine = new VendingMachine();
